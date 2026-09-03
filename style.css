@@ -24,7 +24,7 @@ body {
 }
 
 /* ตกแต่งรูป Profile */
-.profile-img {
+.profile.jpg {
     width: 150px;
     height: 150px;
     border-radius: 50%;
